@@ -30,11 +30,11 @@ The repository is organized by problem categories and difficulty levels as found
 To explore the solutions:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
+    git clone https://github.com/YashKumar161/LeetCode
     ```
 2. Navigate to the repository directory:
     ```bash
-    cd leetcode-solutions
+    cd LeetCode
     ```
 
 ## Contributing
